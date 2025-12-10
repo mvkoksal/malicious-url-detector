@@ -13,6 +13,8 @@ public class MaliciousURLDetector {
     // From: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
     public static final String DATA_PATH = "data/malicious_phish.csv";
 
+
+
     /**
      * Creates a list of <code>num</code> string hash functions utilizing the
      * Murmur3 hashing algorithm.
